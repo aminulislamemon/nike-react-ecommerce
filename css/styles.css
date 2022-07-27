@@ -1,0 +1,10 @@
+.policy-item{
+    width: 489px;
+    height: 135px;
+}
+.policy-item>img{
+    width: 20%;
+}
+.buy-now-btn{
+    background-color: #3543BC;
+}
